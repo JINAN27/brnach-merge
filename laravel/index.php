@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    nanti amke branch ini untuk laravel
+    nanti amke branch ini untuk laravels
 </body>
 </html>
